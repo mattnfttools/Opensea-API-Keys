@@ -31,7 +31,7 @@ Pricing:
 
 100+ Keys + Wallets: 0.030 ETH per key
 
-For custom orders over 100 keys or specific configurations, contact me for tailored pricing. Here is my discord handle add me and get a quote (mattnfttools).
+For custom orders over 100 keys or specific configurations, contact me for tailored pricing.
 
 Who Is This For? 
 
@@ -41,6 +41,6 @@ Why This Matters:
 
 OpenSea’s standard rate limits apply per IP and account. With 1 key per account, you unlock the full potential of 4 requests/second. Avoid shared limits and ensure your operations run smoothly with proxies. 
 
-Message me today to order your private wallet and API key bundle! Say goodbye to shared keys and hello to full control of your OpenSea integrations. 
-
-Price is just a placeholder, pricing that I have mentioned in the add is the real price.
+Message me today on my Discord to order your private wallet and API key bundle.
+My Discord user name is "mohsinkc".
+Say goodbye to shared keys and hello to full control of your OpenSea integrations. 
